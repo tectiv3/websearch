@@ -1,7 +1,7 @@
 package websearch
 
 import (
-	"websearch/provider"
+	"github.com/tectiv3/websearch/provider"
 )
 
 // The main web search wrapper

@@ -3,8 +3,8 @@ package websearch
 import (
 	"errors"
 	"fmt"
-	"websearch/provider"
-	"websearch/provider/errs"
+	"github.com/tectiv3/websearch/provider"
+	"github.com/tectiv3/websearch/provider/errs"
 )
 
 func ExampleNew_ErrorHandling() {

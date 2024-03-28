@@ -2,13 +2,13 @@ package provider
 
 import (
 	"fmt"
+	"github.com/tectiv3/websearch/helpers"
+	"github.com/tectiv3/websearch/provider/errs"
 	"golang.org/x/sync/errgroup"
 	"math"
 	"net/url"
 	"strconv"
 	"sync"
-	"websearch/helpers"
-	"websearch/provider/errs"
 )
 
 // The Unofficial Qwant provider name

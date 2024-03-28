@@ -2,7 +2,7 @@ package provider
 
 import (
 	"errors"
-	"websearch/provider/errs"
+	"github.com/tectiv3/websearch/provider/errs"
 )
 
 // The not implemented provider name

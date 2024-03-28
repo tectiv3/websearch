@@ -1,4 +1,4 @@
-module github.com/the-go-tool/websearch
+module github.com/tectiv3/websearch
 
 go 1.14
 

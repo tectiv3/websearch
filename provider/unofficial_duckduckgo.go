@@ -2,8 +2,8 @@ package provider
 
 import (
 	"github.com/PuerkitoBio/goquery"
+	"github.com/tectiv3/websearch/helpers"
 	"net/url"
-	"websearch/helpers"
 )
 
 // The unofficial DuckDuckGo provider name
